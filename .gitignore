@@ -8,3 +8,4 @@ env/
 ENV/
 
 MyAPIKey.txt
+langchain/MyAPIKey
